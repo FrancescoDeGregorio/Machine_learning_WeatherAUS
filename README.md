@@ -1,15 +1,6 @@
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="https://www.linkedin.com/in/francesco-paolo-de-gregorio-a8a790178/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:francescopaolo.degregorio@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
-
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
-</p>
+# Machine_learning_WeatherAUS
+Analysis and prediction using Rain in Australia dataset. Predict next-day rain by training classification models on the target variable RainTomorrow. 
+This dataset contains about 10 years of daily weather observations from many locations across Australia.
+RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No? This column is Yes if the rain for that day was 1mm or more.
+In this project i will clean, restructure the data and train different classifiers in order to obtain accurate classification. At the end
+the results given by all the different classifiers will be compared.
